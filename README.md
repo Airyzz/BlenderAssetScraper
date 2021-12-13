@@ -19,4 +19,6 @@ All assets will be automatically downloaded, and marked as an asset, ready for u
 
 This script will automatically skip over any assets which already exist in the blend file, meaning you can run this script again at a later date, and it will only download new assets which you don't already have
 
+All textures will be put through a shared shader node group, allowing you to make changes to all materials at once. Simply add new features to the node group, and all materials in the libary will be effected!
+
 I recommend to keep the texture quality to only 1K or 2K, as downloading 1000+ 8K textures will use a considerable amount of storage space and memory.
