@@ -7,7 +7,7 @@ A blend file containing scripts to automatically download and catalog assets fro
 ## Supported libraries:
 [ambientCG.com](https://ambientcg.com/) [(Support Here)](https://www.patreon.com/ambientCG)
 
-(If you have other library requests, feel free to open an issue)
+If you have other library requests, feel free to open an issue. (The site must have a public api)
 
 ## How to use:
 - Download and open the .blend file from this repo. 
